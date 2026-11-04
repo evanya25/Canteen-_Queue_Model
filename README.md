@@ -12,5 +12,5 @@ python make_results_table.py
 ![Results table](outputs/results_table.png)
 ![Wait vs adoption](outputs/fig_wait_vs_alpha.png)
 
-Note: results use demonstration (synthetic) data and assumed
+Note: results use demonstration  data and assumed
 parameters (F_PREP, H_MIN, LEAD_MIN).# Canteen-_Queue_Model
